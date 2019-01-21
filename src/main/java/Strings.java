@@ -1,3 +1,8 @@
+/**
+ * showing various Strings and how to properly compare them
+ * if it's not clear, ALWAYS use compareTo when comparing strings
+ */
+
 public class Strings {
     public static void main(String[] args) {
         //strings are immutable
@@ -23,9 +28,9 @@ public class Strings {
         String example7 = new String("I'm falling");
 
         if (example6 == example7)
-            System.out.println("They are the same");
+            System.out.println("They are the same2");
         else
-            System.out.println("Hahaha try again");
+            System.out.println("Hahaha try again2");
 
         //using compareTo to properly compare
         if (example6.compareTo(example7) == 0)
@@ -35,8 +40,6 @@ public class Strings {
 
         for (int i = 0; i < example.length(); i++)
             System.out.println(example.charAt(i));
-
-
 
     }
 }

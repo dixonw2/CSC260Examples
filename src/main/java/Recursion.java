@@ -1,3 +1,10 @@
+/**
+ * shows examples of using a couple recursive methods and
+ * how they can be used non-recursively
+ * also depicts the speed hit recursive methods typically
+ * take compared to non-recursive methods
+ */
+
 public class Recursion {
     public static void main(String[] args) {
         long runStart = System.nanoTime();

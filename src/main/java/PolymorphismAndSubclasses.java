@@ -1,3 +1,8 @@
+/**
+ * examples of various subclasses and how they can be
+ * used in collections
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 
