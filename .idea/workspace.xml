@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdd50274-520a-4832-9629-449506bd3a59" name="Default Changelist" comment="">
+    <list default="true" id="2565e0c5-3cdf-466b-9abe-6e5c0d5b8458" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayingAround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestThreading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/edu.csc260.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/edu.csc260_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/edu.csc260_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Beet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Beet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Blueberry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Blueberry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Carrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Carrot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Chilidog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CommandLineArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/CommandLineArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Conditionals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Conditionals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Fruit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Hotdog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MorePolymorphismAndSubclasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/NonMeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/NonMeat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/PolymorphismAndSubclasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/PolymorphismAndSubclasses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Strings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/TwoDimArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/TwoDimArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Vegetable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Vegetable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CommandLineArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CommandLineArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CommandLineArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Conditionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PolymorphismAndSubclasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PolymorphismAndSubclasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TwoDimArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoDimArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TwoDimArraysObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoDimArraysObj.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,50 +37,56 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-134978393">
+    <session id="-125875550">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="23" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="23" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="11937" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="11937" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
-          <entry key="git.branch.checkout.local" value="2" />
+          <entry key="git.branch.checkout.local" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2314" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2314" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TwoDimArraysObj.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PlayingAround.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="349">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TestThreading.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -107,7 +104,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/CSC260Examples" value="master" />
       </map>
     </option>
   </component>
@@ -289,10 +286,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6192304384000" />
-        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$" value="6192443921000" />
         <entry key="$PROJECT_DIR$/build.gradle" value="509082139" />
-        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2272797636" />
       </map>
     </option>
@@ -409,15 +404,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/TreeTraversing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MorePolymorphismAndSubclasses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CommandLineArgs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Conditionals.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PolymorphismAndSubclasses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Recursion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Strings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TwoDimArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TwoDimArraysObj.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TestThreading.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PlayingAround.java" />
       </list>
     </option>
   </component>
@@ -432,6 +420,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -457,31 +447,17 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="edu.csc260" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC260_Examples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TwoDimArraysObj.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="edu.csc260" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC260_Examples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Wyatt/Documents/School/Senior/Semester 1/CSC 439/CSC260_Examples/src/main/java/Recursion.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548078428715" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548121710507" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -495,30 +471,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.2DArrayPointsDriver">
-    <configuration name="2DArrayPointsDriver" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="TwoDimArraysObj" />
+  <component name="RunManager" selected="Application.PlayingDriver">
+    <configuration name="CommandArgsDriver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CommandLineArgs" />
       <module name="edu.csc260_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Basic2DArrayDriver" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="TwoDimArrays" />
-      <module name="edu.csc260_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConditionalDriver" type="Application" factoryName="Application">
+    <configuration name="ConditionalsDriver" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Conditionals" />
       <module name="edu.csc260_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MorePolyDriver" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="MorePolymorphismAndSubclasses" />
+    <configuration name="PlayingDriver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PlayingAround" />
       <module name="edu.csc260_main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -538,29 +507,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsDriver" type="Application" factoryName="Application">
+    <configuration name="StringDriver" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Strings" />
       <module name="edu.csc260_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeDriver" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="TreeTraversing" />
+    <configuration name="ThreadDriver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="edu.csc260_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimDriver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TwoDimArrays" />
+      <module name="edu.csc260_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimObjDriver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TwoDimArraysObj" />
       <module name="edu.csc260_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Basic2DArrayDriver" />
-      <item itemvalue="Application.2DArrayPointsDriver" />
-      <item itemvalue="Application.RecursionDriver" />
+      <item itemvalue="Application.CommandArgsDriver" />
+      <item itemvalue="Application.ConditionalsDriver" />
       <item itemvalue="Application.PolyDriver" />
-      <item itemvalue="Application.TreeDriver" />
-      <item itemvalue="Application.ConditionalDriver" />
-      <item itemvalue="Application.StringsDriver" />
-      <item itemvalue="Application.MorePolyDriver" />
+      <item itemvalue="Application.RecursionDriver" />
+      <item itemvalue="Application.StringDriver" />
+      <item itemvalue="Application.TwoDimDriver" />
+      <item itemvalue="Application.TwoDimObjDriver" />
+      <item itemvalue="Application.PlayingDriver" />
+      <item itemvalue="Application.ThreadDriver" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -568,152 +552,162 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fdd50274-520a-4832-9629-449506bd3a59" name="Default Changelist" comment="" />
-      <created>1547558644797</created>
+      <changelist id="2565e0c5-3cdf-466b-9abe-6e5c0d5b8458" name="Default Changelist" comment="" />
+      <created>1548110975647</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547558644797</updated>
+      <updated>1548110975647</updated>
     </task>
-    <task id="LOCAL-00001" summary="test commit">
-      <created>1548035331453</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1548035331453</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.2671533" />
+      <window_info anchor="bottom" id="Messages" weight="0.329927" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22481751" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329927" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.329927" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.329927" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329927" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/TreeTraversing.java">
+    <entry file="file://$USER_HOME$/Documents/School/Senior/Semester 1/CSC 439/CSC260_Examples/src/main/java/PolymorphismAndSubclasses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MorePolymorphismAndSubclasses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CommandLineArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Conditionals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PolymorphismAndSubclasses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="690">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Recursion.java">
+    <entry file="file://$PROJECT_DIR$/CSC260Examples/src/main/java/CommandLineArgs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state>
           <folding>
-            <element signature="e#1209#1210#0" expanded="true" />
-            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Strings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestThreading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        <state relative-caret-position="420">
+          <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TwoDimArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PlayingAround.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TwoDimArraysObj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="349">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>edu.csc260</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
