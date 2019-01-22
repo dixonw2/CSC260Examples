@@ -7,7 +7,7 @@ public class Strings {
     public static void main(String[] args) {
         //strings are immutable
 
-        // declaring a space using " "
+        // declaring a String using ""
         String example = "CSC260";
         // creating a new String object using the constructor
         String example2 = new String("CSC260-001");
@@ -37,8 +37,9 @@ public class Strings {
         else
             System.out.println("Not the same");
 
-        String example6 = new String("I'm falling");
-        String example7 = new String("I'm falling");
+        // string declaration creating new objects and using non alphabet characters
+        String example6 = new String("Last test for this?");
+        String example7 = new String("Last test for this?");
 
         /*
          * should print Not the same2
